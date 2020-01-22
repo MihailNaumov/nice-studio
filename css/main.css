@@ -8828,12 +8828,14 @@ header {
   transform: rotate(-90deg);
   transform-origin: right;
 }
-.top-side__language {
-  margin-right: 30px;
-}
-.top-side__language p {
-  white-space: nowrap;
-}
+/* .top-side__language
+{
+	margin-right: 30px;
+	p
+	{
+		white-space: nowrap;
+	}
+} */
 .top-side__contacts {
   right: 20%;
   font-family: 'Roboto-Black', 'Arial', sans-serif;
